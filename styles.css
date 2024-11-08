@@ -113,13 +113,14 @@ li {
     cursor: pointer;
 }
 
-.answer {
+.hidden {
     display: none;
 }
 
 .container .answer {
     font-family: workSansVariable;
     color: gray;
+    padding-top: .8rem;
 }
 
 .attribution {
